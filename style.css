@@ -20,10 +20,9 @@ body {
     font-size: 2.2rem;
 }
 
-section {
-    position: relative;
-    height: 30vh;
-    width: 100%;
+.container-fluid {
+    position: absolute;
+    top: 60px;
 }
 
 .element {
