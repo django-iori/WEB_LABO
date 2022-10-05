@@ -132,7 +132,7 @@ figure figcaption {
 
     .img-wrap {
         position: absolute;
-        top: 20%;
+        top: 30%;
         bottom: 10px;
         height: 50%;
         width: 1px;
@@ -159,7 +159,7 @@ figure figcaption {
 
 .content {
     position: absolute;
-    top: 75%;
+    top: 85%;
     font-size: 1.2em
 } 
 
