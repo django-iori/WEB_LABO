@@ -27,12 +27,12 @@ section {
 }
 
 .element {
-
     position: relative;
     height: 80vh;
     width: 1px;
     overflow: hidden;
-    background-color: white
+    background-color: white;
+    margin-top: 100px;
 }
 
 .element.active {
