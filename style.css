@@ -30,7 +30,7 @@ body {
     height: 1000px;
     width: 1px;
     overflow: hidden;
-    background-color: white;
+    background-color: rgb(239, 237, 237);
     margin-top: 10px;
 }
 
@@ -113,7 +113,7 @@ figure figcaption {
     padding-bottom: .5em;
     margin-bottom: 2em;
     position: relative;
-    margin: 3em 0 2em;
+    margin: 1em 0 2em;
     color:#19191a;/* フォント色 */
     }
     
@@ -165,7 +165,6 @@ figure figcaption {
 .title-wrapper {
     text-align: center;
     margin-top: 100px;
-    margin-bottom: 50px;
 }
 
 .title-wrapper h1{
